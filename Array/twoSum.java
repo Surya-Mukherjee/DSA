@@ -1,4 +1,4 @@
-package Array;
+
 import java.util.*;
 public class twoSum {
     public static int[] twosum(int[] nums,int target) {
