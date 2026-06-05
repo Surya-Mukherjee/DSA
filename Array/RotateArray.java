@@ -8,8 +8,8 @@ public class RotateArray {
 
         }
 
-       for(int i:res){
-          System.out.print(i);
+       for(int j:res){
+          System.out.print(j);
         }
     }
     public static void main(String[] args) {
