@@ -1,5 +1,5 @@
 
-import java.util.*;
+
 public class twoSum {
     public static int[] twosum(int[] nums,int target) {
      int len=nums.length;
