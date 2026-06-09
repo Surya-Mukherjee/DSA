@@ -22,7 +22,7 @@ public class containerWithMostWater {
     }
     public static void main(String[] args) {
         int a[]={1,8,6,2,5,4,8,3,7};
-        int res=area(a);
-        System.out.println(res);
+        int r=area(a);
+        System.out.println(r);
     }
 }
